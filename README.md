@@ -16,8 +16,26 @@ to complete the Master Degree in Big Data, AI & Data Engineering from the Univer
 
 
 ## 01. Introduction to OOP in Java <a name="Java"></a>
+This module is focused in understanding the foundations of Object Oriented
+Programming in Java.
+
+You can see the following content inside:
+
+1. OPP Introduction.
+1. Inheritance.
+1. Exceptions.
+1. Basic Predefined Classes.
+1. Colections.
+1. Functional Programming.
+1. Streams.
+
+This folder contains just the lecture pdf's and exercise statements.
+The solutions to these exercises and problems are in another repository. 
+
+Please, if you are interested in these solutions visit [this repository](https://github.com/AndresAC14/MBD2024).
 
 ## 02. Introduction to Big Data Ecosystem <a name="BigData"></a>
+This module tries to explain the history of the Big Data from the beginnings to nowadays. It is composed by 3 lectures.
 
 ## 03. Relational Databases - SQL <a name="SQL"></a>
 
